@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wraper{
+    border-top: 5px solid rgb(94, 12, 170);
+    margin: 30px;
+    border: 1px solid rgb(18, 35, 190);
+    overflow: hidden;
+}
+.header{
+    text-align: right;
+    margin: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    height: 200px;
+}
+.header h1{
+    margin-right: 50px;
+    padding: 10px;
+    
+}
+.bill{
+    margin: 5px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 180px;
+}
+.bill-left-content{
+    margin-left: 60px;
+}
+.bill-list-1{
+    list-style: none;
+    text-align: right;
+    font-weight: bold;
+}
+.bill-list-2{
+    list-style: none;
+    font-weight: normal;
+}
+.amount-due{
+    margin-top: -80px;
+    width: 50%;
+    margin-left: 56%;
+}
+.due{
+    background: rgb(200, 191, 191);
+}
+.pricing{
+    background: rgb(83, 24, 151);
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    padding: 5px;
+}
+.price-table{
+    margin: 5px;
+}
+.secound-line{
+    background: rgb(255, 255, 255);
+    color: rgb(7, 7, 7);
+    margin-bottom: 20px;
+}
+.price-right{
+    text-align: right;
+}
+.price-center{
+    text-align: center;
+}
